@@ -2,6 +2,7 @@
 *
 
 # Allow specific California Housing project files
+!calfornia pricing project.ipynb
 !california_housing_price_prediction.ipynb
 !CALIFORNIA HOUSING PRICING PROJECT.pdf
 !capstone_project_2_California_house_price_prediction.pdf
