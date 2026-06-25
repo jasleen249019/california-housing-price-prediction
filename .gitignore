@@ -1,0 +1,11 @@
+# Ignore everything in the directory by default
+*
+
+# Allow specific California Housing project files
+!california_housing_price_prediction.ipynb
+!CALIFORNIA HOUSING PRICING PROJECT.pdf
+!capstone_project_2_California_house_price_prediction.pdf
+
+# Allow Git files and README
+!.gitignore
+!README.md
